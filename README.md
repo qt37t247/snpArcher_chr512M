@@ -1,4 +1,8 @@
-# snpArcher
+# snpArcher_chr512M
+
+With revised rule files replacing bam index "bai" with "cri" for chromosome longer than 512Mb.
+
+Files in config folder were also revised for my frog dataset using Sentieon.  
 
 <img src="./docs/img/logo.png" alt="snpArcher logo" height="300"/>
 
